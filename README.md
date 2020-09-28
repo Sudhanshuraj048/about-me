@@ -5,31 +5,14 @@
 
 My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical engineering** from **NIT SILCHAR**. Currently i am in **7th semester**. I started my coding journey in 2018 when I needed to build a website for my interest. 
 
-# What do I do ?
-
-Currently, I'm a **Software Engineer** in Envestnet Yodlee, leading data aggregation and data analytics platform powering dynamic, cloud-based innovation for digital financial services. I love to teach peoples. I used to teach Algorithmic concepts to final and pre-final year students.
-
-I am working as a **Google Assistant Developer**.
-
-I used to teach final & pre-final year students as a **Teaching Assistant** @InterviewBit Academy
-
-I was **intern** at FoodhubIndia.in(Startup in Aligarh) where I created foodhub's online food ordering Android App with my team. **Technologies used :** XML/JAVA(Frontend), Firebase(Backend), Database(Firebase Realtime database)
-
-I worked as **Web Developer** in RP Unit of my College. I maintained my college website, that is responsible for Course Registrations, Results, Attendance & Specific Downloads. **Technologies used:** PHP (Backend), MYSQL (Database), Bootstrap & Ajax (Frontend)
-
-I worked as **Trainee** in RCPL Noida, where I learned to develop Android Applications. HPES Certified in Core Java & Android.
 
 # Coding Skills
 
-**Languages :** Python, C++, Java, C, SQL, HTML, CSS, Javascript, Php
+**Languages :** C, C++, Java(elementary), SQL, HTML, CSS, Javascript
 
-**Frameworks :** Bootstrap, Node.js for server-side, Collections etc.
+**Frameworks :** Bootstrap, JQuery.
 
-**Libraries :** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK, Wordnet, OOPs Concept
-
-**Data Analysis :** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics
-
-**Development Environment :** Ubuntu 18.04 (Using), Windows OS, Jupyter Notebook, Spyder, Android Studio, Sublime-Text as a text editor
+**Development Environment :**  Windows OS, Visual Studio Code, Sublime-Text as a text editor
 
 **Version Control :** One and only GitHub ❤️
 
