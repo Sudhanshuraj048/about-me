@@ -3,7 +3,7 @@
 
 # Who am I ?
 
-My name is **Shivam Varshney**. I passed my Engineering in Computer Science from Zakir Hussain College of Engineering & Technology, AMU Aligarh.I belongs to a small town of UP, India. I started my coding journey in 2015 when I needed to build a website for my interest. After devoting 3 years to coding, Web & Android Development, in 2018 I shifted my interest into the field of Data Science. 
+My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical engineering** from **NIT SILCHAR**. Currently i am in **7th semester**. I started my coding journey in 2018 when I needed to build a website for my interest. 
 
 # What do I do ?
 
