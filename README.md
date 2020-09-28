@@ -14,40 +14,22 @@ My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical eng
 
 **Development Environment :**  Windows OS, Visual Studio Code, Sublime-Text as a text editor
 
-**Version Control :** One and only GitHub ❤️
 
 # Online Competitive Profile
 
-**Hackerrank: 2200+ Points in Algorithmic Section of hackerrank** https://www.hackerrank.com/shivam_swagum
+**Interviewbit: 29000+ score in Intreviewbit** https://www.interviewbit.com/profile/i_am_iron_man_
 
-**Interviewbit: 29000+ score in Intreviewbit** https://www.interviewbit.com/profile/shivam_varshney_329
-
-**Codechef: Solved more than 60 problems.** https://www.codechef.com/users/shivam990
-
-**Hackerearth: Solved more than 140 problems.** https://www.hackerearth.com/@varshney.shivam786
-
-**LinkedIn : 120+ Endorsements** https://www.linkedin.com/in/shivam-varshney-ab7344140/
+**Codechef: Solved more than 40 problems.** https://www.codechef.com/users/sudrocksu048
 
 <html>
 <body>
 
-<a href="https://www.hackerrank.com/shivam_swagum">
-  <img src="https://user-images.githubusercontent.com/22894197/59981478-73a82f80-9621-11e9-9447-425a2f75e3f7.jpg" >
-</a>
-
-<a href="https://www.interviewbit.com/profile/shivam_varshney_329">
+<a href="https://www.interviewbit.com/profile/i_am_iron_man_">
   <img src="https://user-images.githubusercontent.com/22894197/59981501-ce418b80-9621-11e9-977a-0b6e65c01f4a.jpg" >
 </a>
 
-<a href="https://www.hackerearth.com/@varshney.shivam786">
-  <img src="https://user-images.githubusercontent.com/22894197/59981546-88d18e00-9622-11e9-834b-1c8b138a63e0.jpg" >
-</a>
-
-<a href="https://www.codechef.com/users/shivam990">
+<a href="https://www.codechef.com/users/sudrocksu048">
   <img src="https://user-images.githubusercontent.com/22894197/59981491-abaf7280-9621-11e9-9bb0-bde9f676f641.jpg" >
-</a>
-<a href="https://www.linkedin.com/in/shivam-varshney-ab7344140/">
-  <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" >
 </a>
 
 </body>
@@ -60,7 +42,7 @@ Visit to my linkedIn profile to see my education, experience, projects, certific
 <html>
 <body>
 
-<a href="https://www.linkedin.com/in/shivam-varshney-ab7344140/">
+<a href="https://www.linkedin.com/in/sudhanshuranjan048">
   <img src="https://img.icons8.com/bubbles/100/000000/about-me-male.png" >
 </a>
 
@@ -74,7 +56,7 @@ Download as PDF
 <html>
 <body>
 
-<a href="">
+<a href="https://drive.google.com/file/d/1KFuYfJCTE2oAeDgtg-8kDn6ABaDipOyr/view?usp=sharing">
   <img src="https://img.icons8.com/clouds/100/000000/resume.png" >
 </a>
 
@@ -88,7 +70,7 @@ Known me on internet
 <html>
 <body>
 
-<a href="https://www.linkedin.com/in/shivam-varshney-ab7344140/">
+<a href="https://www.linkedin.com/in/sudhanshuranjan048">
   <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" >
 </a>
 
