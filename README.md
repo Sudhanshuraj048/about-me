@@ -10,7 +10,7 @@ My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical eng
 
 **Languages :** C, C++, Java(elementary), SQL, HTML, CSS, Javascript, MATLAB
 
-**Cs Subjects :** OS, DBMS, CN, OOPS
+**Cs Subjects :** OS, DBMS, CN, DS & ALGO
 
 **Frameworks :** Bootstrap, JQuery.
 
