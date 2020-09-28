@@ -3,12 +3,14 @@
 
 # Who am I ?
 
-My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical engineering** from **NIT SILCHAR**. Currently i am in **7th semester**. I started my coding journey in 2018 when I needed to build a website for my interest. 
+My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical engineering** from **NIT SILCHAR**. Currently i am in **7th semester**.
 
 
 # Coding Skills
 
-**Languages :** C, C++, Java(elementary), SQL, HTML, CSS, Javascript
+**Languages :** C, C++, Java(elementary), SQL, HTML, CSS, Javascript, MATLAB
+
+**Cs Subjects :** OS, DBMS, CN, OOPS
 
 **Frameworks :** Bootstrap, JQuery.
 
