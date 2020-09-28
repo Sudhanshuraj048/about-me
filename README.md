@@ -74,15 +74,15 @@ Known me on internet
   <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" >
 </a>
 
-<a href="https://github.com/shivam990">
+<a href="https://github.com/Sudhanshuraj048">
   <img src="https://img.icons8.com/bubbles/100/000000/github.png" >
 </a>
 
-<a href="https://www.instagram.com/shivam_swagum/">
+<a href="https://www.instagram.com/sudhanshu_raj048/?hl=en">
   <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" >
 </a>
 
-<a href="https://www.facebook.com/shivam.varshney.5011516">
+<a href="https://www.facebook.com/sudhanshu.raj.048">
   <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" >
 </a>
 
@@ -91,12 +91,10 @@ Known me on internet
 
 # Email Me
 
-(To get a assured reply in under 5 mins 🙂)
-
 <html>
 <body>
 
-<a href="mailto:varshney.shivam786@gmail.com">
+<a href="mailto:sudhanshuraj048@gmail.com">
   <img src="https://img.icons8.com/bubbles/100/000000/email.png" >
 </a>
 
