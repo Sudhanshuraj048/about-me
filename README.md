@@ -104,4 +104,4 @@ https://sudhanshuraj048.github.io/covid/
 </body>
 </html>
 
-Thanks to Visit my Profile 😊
+Thanks for Visiting my Profile 😊
