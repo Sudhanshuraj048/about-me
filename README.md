@@ -58,7 +58,7 @@ Download as PDF
 <html>
 <body>
 
-<a href="https://drive.google.com/file/d/1KFuYfJCTE2oAeDgtg-8kDn6ABaDipOyr/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1USHeew4UxGa0E71HGj3ZmShAqI6P-bR6/view?usp=sharing">
   <img src="https://img.icons8.com/clouds/100/000000/resume.png" >
 </a>
 
