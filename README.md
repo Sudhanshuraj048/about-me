@@ -3,7 +3,7 @@
 
 # Who am I ?
 
-My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical engineering** from **NIT SILCHAR**. Currently i am in **7th semester**.
+My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical engineering** from **NIT SILCHAR**. Currently i am in **8th semester**.
 
 
 # Coding Skills
@@ -14,7 +14,7 @@ My name is **Sudhanshu Ranjan**. I am pursuing my **B.Tech** in **Electrical eng
 
 **Frameworks :** Bootstrap, JQuery.
 
-**Development Environment :**  Windows OS, Visual Studio Code, Sublime-Text as a text editor
+**Development Environment :**  Windows OS, Visual Studio Code, Android Studio, Sublime-Text as a text editor
 
 
 # Online Competitive Profile
